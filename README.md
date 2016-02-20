@@ -28,6 +28,12 @@ PubkeyScript: 4104678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61de
 
 Merkle Hash: 3ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a
 Byteswapped: 4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b
+Generating block...
+
+Block found!
+Hash: 000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+Nonce: 2083236893
+Unix time: 1231006505
 ```
 #To change:
-unixtime = 1231006505 # set time 09/01/2009 and nonce = 2083236893 # for Bitcoin genesis block
+unixtime = 1231006505 # set time 09/01/2009 for Bitcoin genesis block
